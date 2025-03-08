@@ -12,7 +12,9 @@ height-aware feature mapping.
 ⚠️ **Notice: This repository is under review. Full documentation and data will be released upon paper acceptance.**
 
 ## Demo
+<div align="center">
 <img src='./assets/demo.gif'>
+</div>
 
 ## Main results
 <div align="center">
@@ -46,7 +48,7 @@ height-aware feature mapping.
         <td>ICRA2023</td>
         <td>RN50</td>
         <td>46.6</td>
-        <td>65FPS A100</td>
+        <td></td>
     </tr>
     </tr>
     <tr class="highlight-column">
