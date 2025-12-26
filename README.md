@@ -133,6 +133,9 @@ If you find our work helpful in your research, please consider citing our paper:
   title={HeightAware-BEV: Height-Aware Feature Mapping for Efficient Bird&#x2019;s-Eye-View Perception},
   author={ Zhou, Renjie  and  Li, Jiachen  and  Su, Zhen  and  Lu, Chao  and  Wang, Zhengjun },
   booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2025},
+  pages={6172-6178},
+  doi={10.1109/IROS60139.2025.11247319}
 }
 ```
 
