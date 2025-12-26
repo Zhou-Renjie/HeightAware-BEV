@@ -129,7 +129,11 @@ python eval_nuscenes.py \
 If you find our work helpful in your research, please consider citing our paper:
 
 ```bibtex
-Will be updated soon.
+@inproceedings{0HeightAware,
+  title={HeightAware-BEV: Height-Aware Feature Mapping for Efficient Bird&#x2019;s-Eye-View Perception},
+  author={ Zhou, Renjie  and  Li, Jiachen  and  Su, Zhen  and  Lu, Chao  and  Wang, Zhengjun },
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+}
 ```
 
 ## License
